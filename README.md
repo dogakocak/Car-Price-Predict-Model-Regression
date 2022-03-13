@@ -9,7 +9,8 @@ Regression scatter graph
 
 Data Describe
 
-![image](https://user-images.githubusercontent.com/94220642/158058883-6d234d8e-e8cb-4328-8d25-1b98f0af2e2e.png)
+![image](https://user-images.githubusercontent.com/94220642/158058996-e94fc900-5de4-4b7f-8ff2-8fe46f2f0830.png)
+
 
 Loss Graph
 
